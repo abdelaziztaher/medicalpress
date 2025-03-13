@@ -1,0 +1,35 @@
+{
+  "name": "MedicalPress",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "copy-images": "node scripts/copy-images.js",
+    "start-blog": "node scripts/start.js"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.8",
+    "moment": "^2.30.1",
+    "next": "14.1.0",
+    "next-pwa": "^5.6.0",
+    "prismjs": "^1.30.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.26.3",
+    "@types/node": "^20",
+    "@types/prismjs": "^1.26.5",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.0",
+    "autoprefixer": "^10.0.1",
+    "babel-loader": "^10.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "5.0.4"
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "articles": [
+    {
+      "id": "1741892359392",
+      "title": "Gene Therapy Successfully Treats Rare Genetic Disorder in Infants",
+      "category": "specialized-care",
+      "timestamp": 1741892359392
+    },
+    {
+      "id": "1741892057755",
+      "title": "Breakthrough in Understanding Autoimmune Diseases",
+      "category": "medical-research",
+      "timestamp": 1741892057755
+    },
+    {
+      "id": "1741891752951",
+      "title": "New Clinical Trial Investigates Novel Treatment for Type 1 Diabetes",
+      "category": "medical-research",
+      "timestamp": 1741891752951
+    },
+    {
+      "id": "1741891507444",
+      "title": "Research Identifies New Biomarker for Predicting Alzheimer's Disease Progression",
+      "category": "medical-research",
+      "timestamp": 1741891507444
+    },
+  
+    {
+      "id": "1741867031024",
+      "title": "Public Health Campaign Promotes Importance of Regular Mental Health Check-ups",
+      "category": "public-health",
+      "timestamp": 1741867031024
+    },
+    {
+      "id": "1741866731871",
+      "title": "Innovative Therapy Restores Motor Function in Spinal Cord Injuries",
+      "category": "specialized-care",
+      "timestamp": 1741866731871
+    },
+    {
+      "id": "1741866430764",
+      "title": "Study Links Air Pollution to Increased Risk of Cardiovascular Disease",
+      "category": "medical-research",
+      "timestamp": 1741866430764
+    },
+    {
+      "id": "1741866131429",
+      "title": "New Guidelines Released for Management of Chronic Pain",
+      "category": "specialized-care",
+      "timestamp": 1741866131429
+    },
+    {
+      "id": "1741865830608",
+      "title": "Gene Editing Successfully Corrects Genetic Defect in Human Embryos",
+      "category": "medical-research",
+      "timestamp": 1741865830608
+    },
+    {
+      "id": "1741865530878",
+      "title": "Childhood Vaccination Rates Decline, Raising Concerns of Outbreaks",
+      "category": "public-health",
+      "timestamp": 1741865530878
+    },
+    {
+      "id": "1741864932767",
+      "title": "Personalized Cancer Treatment Based on Genetic Profiling Improves Outcomes",
+      "category": "specialized-care",
+      "timestamp": 1741864932767
+    },
+    {
+      "id": "1741864630808",
+      "title": "Innovative Surgical Procedure Restores Lost Limb Function",
+      "category": "specialized-care",
+      "timestamp": 1741864630808
+    },
+    {
+      "id": "1741864329766",
+      "title": "Virtual Reality Therapy Helps Patients Overcome Phobias",
+      "category": "specialized-care",
+      "timestamp": 1741864329766
+    },
+    {
+      "id": "1741864029709",
+      "title": "Study Links Air Pollution to Increased Risk of Childhood Asthma",
+      "category": "public-health",
+      "timestamp": 1741864029709
+    },
+    {
+      "id": "1741863730279",
+      "title": "Telemedicine Expansion Improves Rural Healthcare Access",
+      "category": "medical-technology",
+      "timestamp": 1741863730279
+    },
+    {
+      "id": "1741863430573",
+      "title": "Robotic Surgery Offers Precision and Minimally Invasive Options",
+      "category": "medical-technology",
+      "timestamp": 1741863430573
+    },
+    {
+      "id": "1741863131028",
+      "title": "Public Health Campaign Aims to Increase Childhood Vaccination Rates",
+      "category": "public-health",
+      "timestamp": 1741863131028
+    },
+    {
+      "id": "1741862830577",
+      "title": "Global Effort Aims to Eradicate Polio",
+      "category": "public-health",
+      "timestamp": 1741862830577
+    },
+    {
+      "id": "1741862529888",
+      "title": "New Initiative Promotes Mental Health Awareness in Schools",
+      "category": "public-health",
+      "timestamp": 1741862529888
+    },
+    {
+      "id": "1741862229546",
+      "title": "Breakthrough Gene Therapy Offers Hope for Hemophilia Patients",
+      "category": "specialized-care",
+      "timestamp": 1741862229546
+    },
+    {
+      "id": "1741861930270",
+      "title": "Experimental Drug Shows Potential in Slowing Parkinson's Progression",
+      "category": "medical-research",
+      "timestamp": 1741861930270
+    },
+    {
+      "id": "1741861628621",
+      "title": "FDA Approves New AI-Powered Diagnostic Tool for Early Cancer Detection",
+      "category": "medical-technology",
+      "timestamp": 1741861628621
+    },
+    {
+      "id": "1741861329146",
+      "title": "New Guidelines Released for Managing Childhood Obesity",
+      "category": "public-health",
+      "timestamp": 1741861329146
+    },
+    {
+      "id": "1741861028883",
+      "title": "Scientists Develop Nanoparticles to Deliver Drugs Directly to Tumors",
+      "category": "medical-research",
+      "timestamp": 1741861028883
+    },
+    {
+      "id": "1741860732707",
+      "title": "Public Health Campaign Promotes Vaccination Against Measles Outbreak",
+      "category": "public-health",
+      "timestamp": 1741860732707
+    },
+    {
+      "id": "1741860430153",
+      "title": "Minimally Invasive Robotic Surgery Reduces Recovery Time for Hysterectomies",
+      "category": "specialized-care",
+      "timestamp": 1741860430153
+    },
+    {
+      "id": "1741860130673",
+      "title": "Large-Scale Study Reveals Genetic Predisposition to Autoimmune Diseases",
+      "category": "medical-research",
+      "timestamp": 1741860130673
+    },
+    {
+      "id": "1741859829412",
+      "title": "Personalized Medicine Approach Improves Treatment Outcomes for Lung Cancer",
+      "category": "specialized-care",
+      "timestamp": 1741859829412
+    },
+    {
+      "id": "1741859530503",
+      "title": "New Guidelines Released for Managing Childhood Obesity",
+      "category": "public-health",
+      "timestamp": 1741859530503
+    },
+    {
+      "id": "1741859230883",
+      "title": "Personalized Medicine Approach Improves Treatment Outcomes for Lung Cancer",
+      "category": "specialized-care",
+      "timestamp": 1741859230883
+    },
+    {
+      "id": "1741858930369",
+      "title": "Smart Inhaler Tracks Medication Usage and Improves Asthma Control",
+      "category": "medical-technology",
+      "timestamp": 1741858930369
+    },
+    {
+      "id": "1741858631143",
+      "title": "New Drug Shows Promise in Slowing Alzheimer's Progression",
+      "category": "medical-research",
+      "timestamp": 1741858631143
+    },
+    {
+      "id": "1741858331205",
+      "title": "Study Finds Link Between Gut Microbiome and Mental Health",
+      "category": "medical-research",
+      "timestamp": 1741858331205
+    },
+    {
+      "id": "1741858030845",
+      "title": "Researchers Develop New Vaccine Against Emerging Infectious Disease",
+      "category": "medical-research",
+      "timestamp": 1741858030845
+    },
+    {
+      "id": "1741857730242",
+      "title": "Advanced Pain Management Techniques Offer Relief to Chronic Sufferers",
+      "category": "specialized-care",
+      "timestamp": 1741857730242
+    },
+    {
+      "id": "1741857429959",
+      "title": "Groundbreaking Research Identifies Gene Linked to Heart Disease",
+      "category": "medical-research",
+      "timestamp": 1741857429959
+    },
+    {
+      "id": "1741857130621",
+      "title": "Advanced Imaging Technology Detects Cancer Earlier",
+      "category": "medical-technology",
+      "timestamp": 1741857130621
+    },
+    {
+      "id": "1741856828345",
+      "title": "Personalized Immunotherapy Shows Remarkable Results in Clinical Trials",
+      "category": "specialized-care",
+      "timestamp": 1741856828345
+    },
+    {
+      "id": "1741856530662",
+      "title": "Gene Therapy Shows Promise in Treating Inherited Blindness",
+      "category": "medical-research",
+      "timestamp": 1741856530662
+    },
+    {
+      "id": "1741856229528",
+      "title": "New Research Explores the Role of Inflammation in Chronic Diseases",
+      "category": "medical-research",
+      "timestamp": 1741856229528
+    },
+    {
+      "id": "1741855929784",
+      "title": "Study Links Gut Microbiome to Alzheimer's Disease Progression",
+      "category": "medical-research",
+      "timestamp": 1741855929784
+    },
+    {
+      "id": "1741855631323",
+      "title": "Innovative Pain Management Clinic Offers Non-Opioid Alternatives",
+      "category": "specialized-care",
+      "timestamp": 1741855631323
+    },
+    {
+      "id": "1741855330051",
+      "title": "Scientists Discover New Antibody That Neutralizes Multiple COVID-19 Variants",
+      "category": "medical-research",
+      "timestamp": 1741855330051
+    },
+    {
+      "id": "1741855029678",
+      "title": "Telemedicine Expands Access to Mental Health Services in Rural Areas",
+      "category": "medical-technology",
+      "timestamp": 1741855029678
+    },
+    {
+      "id": "1741854729712",
+      "title": "Public Health Campaign Aims to Increase Vaccination Rates Against HPV",
+      "category": "public-health",
+      "timestamp": 1741854729712
+    },
+    {
+      "id": "1741854431006",
+      "title": "Public Health Campaign Aims to Reduce Sugar Consumption",
+      "category": "public-health",
+      "timestamp": 1741854431006
+    },
+    {
+      "id": "1741854129253",
+      "title": "Nanobots Deliver Chemotherapy Directly to Tumors in Animal Studies",
+      "category": "medical-technology",
+      "timestamp": 1741854129253
+    },
+    {
+      "id": "1741853831053",
+      "title": "Breakthrough Study Links Gut Microbiome to Alzheimer's Risk",
+      "category": "medical-research",
+      "timestamp": 1741853831053
+    },
+    {
+      "id": "1741853529365",
+      "title": "Genetic Testing Helps Identify Risk of Inherited Diseases",
+      "category": "medical-technology",
+      "timestamp": 1741853529365
+    },
+    {
+      "id": "1741853229858",
+      "title": "Wearable Device Monitors Glucose Levels Continuously",
+      "category": "medical-technology",
+      "timestamp": 1741853229858
+    },
+    {
+      "id": "1741852929822",
+      "title": "Researchers Identify New Biomarker for Early Cancer Detection",
+      "category": "medical-research",
+      "timestamp": 1741852929822
+    },
+    {
+      "id": "1741852629497",
+      "title": "Novel Gene Therapy Shows Potential in Treating Inherited Blindness",
+      "category": "medical-research",
+      "timestamp": 1741852629497
+    },
+    {
+      "id": "1741852329972",
+      "title": "Personalized Medicine Approach Improves Outcomes for Lung Cancer Patients",
+      "category": "specialized-care",
+      "timestamp": 1741852329972
+    },
+    {
+      "id": "1741852030078",
+      "title": "Mental Health Services Expanded to Address Growing Needs",
+      "category": "specialized-care",
+      "timestamp": 1741852030078
+    },
+    {
+      "id": "1741851730400",
+      "title": "Advanced Imaging Technology Provides Clearer Views of the Brain",
+      "category": "medical-technology",
+      "timestamp": 1741851730400
+    },
+    {
+      "id": "1741851430281",
+      "title": "New Guidelines Released for Managing Childhood Obesity",
+      "category": "public-health",
+      "timestamp": 1741851430281
+    },
+    {
+      "id": "1741851129227",
+      "title": "Telemedicine Expansion Improves Rural Healthcare Access",
+      "category": "medical-technology",
+      "timestamp": 1741851129227
+    },
+    {
+      "id": "1741850831734",
+      "title": "Public Health Campaign Promotes Regular Exercise for Heart Health",
+      "category": "public-health",
+      "timestamp": 1741850831734
+    },
+    {
+      "id": "1741850529949",
+      "title": "Gene Editing Technology Shows Potential for Curing Genetic Diseases",
+      "category": "specialized-care",
+      "timestamp": 1741850529949
+    },
+    {
+      "id": "1741850229683",
+      "title": "Community Outreach Program Reduces Opioid Overdose Deaths",
+      "category": "public-health",
+      "timestamp": 1741850229683
+    },
+    {
+      "id": "1741849929758",
+      "title": "Novel Drug Combination Extends Survival in Pancreatic Cancer Patients",
+      "category": "specialized-care",
+      "timestamp": 1741849929758
+    },
+    {
+      "id": "1741849629983",
+      "title": "New AI Algorithm Detects Skin Cancer with High Accuracy",
+      "category": "medical-technology",
+      "timestamp": 1741849629983
+    },
+    {
+      "id": "1741849331116",
+      "title": "Advanced Imaging Technique Provides Detailed View of Brain Activity",
+      "category": "medical-technology",
+      "timestamp": 1741849331116
+    },
+    {
+      "id": "1741848729534",
+      "title": "Public Health Campaign Promotes Healthy Eating Habits",
+      "category": "public-health",
+      "timestamp": 1741848729534
+    },
+    {
+      "id": "1741848430407",
+      "title": "Robotic Exoskeletons Help Patients Recover from Stroke",
+      "category": "medical-technology",
+      "timestamp": 1741848430407
+    },
+    {
+      "id": "1741848129680",
+      "title": "Research Uncovers Potential New Target for HIV Treatment",
+      "category": "medical-research",
+      "timestamp": 1741848129680
+    },
+    {
+      "id": "1741847829344",
+      "title": "Robotic Surgery Improves Outcomes for Complex Prostate Cancer Cases",
+      "category": "specialized-care",
+      "timestamp": 1741847829344
+    },
+    {
+      "id": "1741847529248",
+      "title": "Minimally Invasive Procedure Offers Relief for Chronic Back Pain",
+      "category": "specialized-care",
+      "timestamp": 1741847529248
+    },
+    {
+      "id": "1741847230008",
+      "title": "New Guidelines Released for Managing Childhood Obesity",
+      "category": "public-health",
+      "timestamp": 1741847230008
+    },
+    {
+      "id": "1741846929664",
+      "title": "New Guidelines Released for Managing Childhood Obesity",
+      "category": "public-health",
+      "timestamp": 1741846929664
+    },
+    {
+      "id": "1741846629688",
+      "title": "Artificial Pancreas Improves Blood Sugar Control in Type 1 Diabetes",
+      "category": "medical-technology",
+      "timestamp": 1741846629688
+    },
+    {
+      "id": "1741846329125",
+      "title": "Telemedicine Program Expands Access to Mental Health Services in Rural Areas",
+      "category": "public-health",
+      "timestamp": 1741846329125
+    },
+    {
+      "id": "1741846031114",
+      "title": "Study Links Gut Microbiome to Alzheimer's Disease Risk",
+      "category": "medical-research",
+      "timestamp": 1741846031114
+    },
+    {
+      "id": "1741845730682",
+      "title": "Advanced Imaging Technique Provides Detailed View of Brain Activity",
+      "category": "medical-technology",
+      "timestamp": 1741845730682
+    },
+    {
+      "id": "1741845430307",
+      "title": "Robotic Surgery Offers Enhanced Precision in Prostate Cancer Removal",
+      "category": "medical-technology",
+      "timestamp": 1741845430307
+    },
+    {
+      "id": "1741845129709",
+      "title": "Expert Surgeons Perform First Successful Double Hand Transplant",
+      "category": "specialized-care",
+      "timestamp": 1741845129709
+    },
+    {
+      "id": "1741844830897",
+      "title": "AI-Powered Diagnostic Tool Improves Accuracy of X-ray Interpretation",
+      "category": "medical-technology",
+      "timestamp": 1741844830897
+    },
+    {
+      "id": "1741844615116",
+      "title": "National Campaign Launched to Promote Mental Health Awareness",
+      "category": "public-health",
+      "timestamp": 1741844615116
+    },
+    {
+      "id": "1741844315314",
+      "title": "Minimally Invasive Procedure Corrects Heart Valve Defects",
+      "category": "specialized-care",
+      "timestamp": 1741844315314
+    },
+    {
+      "id": "1741844102318",
+      "title": "Smart Insulin Pens Improve Diabetes Management and Compliance",
+      "category": "medical-technology",
+      "timestamp": 1741844102318
+    },
+    {
+      "id": "1741843502751",
+      "title": "New Guidelines Released for Managing Childhood Obesity",
+      "category": "public-health",
+      "timestamp": 1741843502751
+    },
+    {
+      "id": "1741842901337",
+      "title": "Study Identifies Genetic Markers for Increased Heart Disease Risk",
+      "category": "medical-research",
+      "timestamp": 1741842901337
+    },
+    {
+      "id": "1741842302445",
+      "title": "Research Links Gut Microbiome to Parkinson's Disease Progression",
+      "category": "medical-research",
+      "timestamp": 1741842302445
+    },
+    {
+      "id": "1741841701651",
+      "title": "New AI Algorithm Detects Skin Cancer with High Accuracy",
+      "category": "medical-technology",
+      "timestamp": 1741841701651
+    },
+    {
+      "id": "1741841102180",
+      "title": "Scientists Develop Nanoparticles to Deliver Targeted Cancer Therapy",
+      "category": "medical-research",
+      "timestamp": 1741841102180
+    },
+    {
+      "id": "1741840502105",
+      "title": "FDA Approves First Gene Therapy for Sickle Cell Disease",
+      "category": "specialized-care",
+      "timestamp": 1741840502105
+    },
+    {
+      "id": "1741795968744",
+      "title": "3D-Printed Organs Show Potential for Future Transplants",
+      "category": "medical-technology",
+      "timestamp": 1741795968744
+    }
+  ]
+}

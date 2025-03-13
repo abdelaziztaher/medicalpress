@@ -1,0 +1,165 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&family=Tajawal:wght@400;500;700&display=swap');
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 249, 250, 251;
+  --background-end-rgb: 255, 255, 255;
+  --primary-color: 20, 184, 166; /* teal-500 */
+  --secondary-color: 59, 130, 246; /* blue-500 */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 31, 41, 55;
+    --background-end-rgb: 17, 24, 39;
+  }
+}
+
+/* Adding smooth transition for all elements */
+* {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 500ms;
+}
+
+/* Some elements should have faster transitions */
+button, a, svg {
+  transition-duration: 300ms;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+/* Arabic font and RTL support */
+.font-arabic {
+  font-family: 'Tajawal', sans-serif;
+}
+
+html[dir="rtl"] {
+  font-family: 'Tajawal', sans-serif;
+}
+
+/* Adding custom card style */
+.card {
+  @apply bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-shadow;
+}
+
+/* Custom primary button style */
+.btn-primary {
+  @apply px-6 py-2 bg-teal-500 text-white font-medium rounded-lg hover:bg-teal-600 transition-colors;
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .btn {
+    @apply px-4 py-2 rounded-md font-medium transition-all duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary text-white hover:bg-green-600;
+  }
+  
+  .heading {
+    @apply font-heading font-bold;
+  }
+}
+
+/* Code block styles */
+.code-block {
+  font-family: 'Fira Code', monospace;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.code-block pre {
+  margin: 0;
+}
+
+.code-block code {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Light mode */
+.code-block pre {
+  background-color: #f8f8f8;
+}
+
+/* Dark mode */
+.dark .code-block pre {
+  background-color: #1e293b;
+}
+
+/* Override Prism.js theme for better visibility */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #8ba0a0;
+}
+
+.token.punctuation {
+  color: #93a1a1;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #f92672;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+  color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: #e6db74;
+}
+
+.token.function,
+.token.class-name {
+  color: #66d9ef;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+  color: #fd971f;
+}
+
+.dark .prose code {
+  color: #e2e8f0;
+} 
